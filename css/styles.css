@@ -7,6 +7,9 @@ Fonts
 Variables
 ===============================
 */
+html {
+  scroll-behavior: smooth;
+}
 :root {
   --clr-primary: #776868;
   --clr-primary-light: #ecd8ce;
